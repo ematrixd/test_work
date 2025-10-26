@@ -1,0 +1,7 @@
+/venv/
+/tests/__pycache__/
+/reports/__pycache__/
+/utils/__pycache__/
+/tests/__pycache__/
+/tests/__pycache__/
+*.csv
